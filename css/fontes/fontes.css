@@ -1,0 +1,19 @@
+.subtitulo{
+    text-align: center;
+    font-size: 11px;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 100px;
+}
+
+.titulo-grande{
+    font-size: 60px;
+}
+
+/*cores*/
+
+.letra-branca{
+    color: white;
+}

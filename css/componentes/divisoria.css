@@ -1,0 +1,6 @@
+.linha-divisoria {
+    border: 0;
+    height: 1px;
+    background: #cacacadd; /* cor da linha */
+    margin: 20px 0; /* margem superior e inferior */
+}
